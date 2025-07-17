@@ -169,7 +169,7 @@ After installation, you can access Open WebUI at [http://localhost:3000](http://
 
 ### Other Installation Methods
 
-We offer various installation alternatives, including non-Docker native installation methods, Docker Compose, Kustomize, and Helm. Visit our [Open WebUI Documentation](https://docs.openwebui.com/getting-started/) or join our [Discord community](https://discord.gg/5rJgQTnV4s) for comprehensive guidance.
+We offer various installation alternatives, including non-Docker native installation methods, Docker Compose, Kustomize, and Helm. Visit our [Open WebUI Documentation](https://docs.openwebui.com/getting-started/) or join our [GitHub repository](https://github.com/tiation) for comprehensive guidance.
 
 ### Troubleshooting
 
@@ -227,7 +227,7 @@ This project is licensed under the [Open WebUI License](LICENSE), a revised BSD-
 ## Support 💬
 
 If you have any questions, suggestions, or need assistance, please open an issue or join our
-[Open WebUI Discord community](https://discord.gg/5rJgQTnV4s) to connect with us! 🤝
+[Open WebUI GitHub repository](https://github.com/tiation) to connect with us! 🤝
 
 ## Star History
 
